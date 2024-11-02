@@ -1,0 +1,9 @@
+<ClientConfig>
+	<GameClient name="Tic Tac Temple WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="TicTacTemple" enableFreeSpin="Y" clientversion="1.0" gameId="300-2158-0" />
+	<GameClient name="Tic Tac Temple WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="TicTacTemple" enableFreeSpin="Y" clientversion="1.0" gameId="300-2158-0" />
+	<GameClient name="Tic Tac Temple WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="TicTacTemple" enableFreeSpin="Y" clientversion="1.0" gameId="300-2158-0" />
+
+	<GameClient name="Tic Tac Temple WLA" clientCode="mobilemini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="TicTacTemple" enableFreeSpin="Y" clientversion="1.0" gameId="300-2158-0" />
+	<GameClient name="Tic Tac Temple WLA" clientCode="tabletmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="TicTacTemple" enableFreeSpin="Y" clientversion="1.0" gameId="300-2158-0" />
+	<GameClient name="Tic Tac Temple WLA" clientCode="desktopmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="TicTacTemple" enableFreeSpin="Y" clientversion="1.0" gameId="300-2158-0" />
+</ClientConfig>
